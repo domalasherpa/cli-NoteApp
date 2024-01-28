@@ -11,7 +11,6 @@ export default async function queryDB(externalFunction){
                 if(error){
                     console.log("Unable to read file..", error);
                 }
-
                 info = JSON.parse(data.toString());
                 console.log(info);
 
