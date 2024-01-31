@@ -1,0 +1,10 @@
+
+Todo:
+TODO:
+1. CRUD operation functions -----------done
+2. User aunthentication
+3. User file access restriction "db.json file"
+4. menu to navigate 
+
+future:
+1. Configure non-relational db: mongoDB
